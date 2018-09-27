@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/home/roger/.python/bin/python3",
+
+    "code-runner.executorMap": {
+        "python":"$pythonPath $fullFileName"
+    },
+    
+    "code-runner.respectShebang": false
+
+}
