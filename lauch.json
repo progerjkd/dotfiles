@@ -1,0 +1,11 @@
+{
+            "name": "Python 3.7: Current File (Integrated Terminal)",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "pythonPath": "/home/roger/.python/bin/python3.7",
+            "env": {
+                "PYTHONPATH": "/home/roger/.python"
+            }
+        },
